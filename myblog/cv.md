@@ -1,25 +1,24 @@
-<!-- ---
+---
 title: "CV"
 permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## Education
 
-Just fork the repo and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+University of Waterloo
+Biomedical Engineering (2018-2023)
 
-## Features
+## Work Experience
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+#### KelvinZero
+asldlasfj
+
+#### PerkinElmer
+asdjfkla;
+
+#### Ceridian
+adj;
 
 ## Based on
 
@@ -49,4 +48,4 @@ plugins:
 
 ![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
 
-![screenshot](https://user-images.githubusercontent.com/4943215/73125195-5fa42200-3fa4-11ea-89f8-d09c1d6fe252.png) -->
+![screenshot](https://user-images.githubusercontent.com/4943215/73125195-5fa42200-3fa4-11ea-89f8-d09c1d6fe252.png)
